@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="popup.css" />
+  </head>
+  <body>
+    <main>
+      <nav class="d-row nav-ctn">
+        <h1>YTSave</h1>
+        <div class="menu-ctn">
+          <div class="hamburger-menu cursor">
+            <div class="line-1"></div>
+            <div class="line-2 line-open"></div>
+            <div class="line-3"></div>
+          </div>
+        </div>
+      </nav>
+     
+      <div class="content">
+        <div class="filter-ctn d-row">
+          <input
+            type="text"
+            id="search-input"
+            class="search-bar text-input"
+            placeholder="Search videos..."
+            title="Search through videos"
+          />
+        
+        </div>
+        <br />
+        <div id="video-list-ctn"></div>
+      </div>
+    </main>
+    <!-- <div id="video-list-ctn">
+      <button class="remove-btn"></button>
+    </div> -->
+    <script src="popup.js"></script>
+  </body>
+</html>
