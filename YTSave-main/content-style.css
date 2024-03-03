@@ -1,0 +1,20 @@
+.bookmark-ctn {
+  min-height: 100%;
+  margin-left: 1rem;
+  margin-right: 1rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.bookmark-btn {
+  width: 25px;
+  height: 25px;
+  cursor: pointer;
+}
+.bookmark-btn:hover {
+  transform: scale(1.05);
+}
+
+.bookmark-btn:active {
+  transform: scale(0.95);
+}
