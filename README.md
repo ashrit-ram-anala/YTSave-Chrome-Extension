@@ -13,6 +13,9 @@ The extension currently has <strong>100+ users</strong> in <strong>20+ countries
 ![JS](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
 
+## Privacy Policy
+
+The privacy policy for YTSave that discusses how the extension collects data, why it needs the data, and how the data is used can be found <a href=https://www.freeprivacypolicy.com/live/4d580bbf-afaf-471a-a9c8-6186bf8edb8a> Here </a>
 
 
 
